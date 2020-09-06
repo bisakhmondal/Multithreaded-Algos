@@ -9,6 +9,7 @@ This repo contains implementation of some Nice algorithms exploiting the concurr
 
 1. **Multithreaded MergeSort**
    - :heavy_check_mark: **Stable**
+2. **Dining Philosophers** :heavy_check_mark:
 
 <hr>
 
